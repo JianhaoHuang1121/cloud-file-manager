@@ -1,6 +1,6 @@
 # 雲端檔案管理系統
 
-華邦電子軟體工程師面試作業 — 應用 Composite Pattern 設計的雲端檔案管理系統。
+應用 Composite Pattern 設計的雲端檔案管理系統。
 
 ## 功能
 
